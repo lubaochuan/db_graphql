@@ -1,0 +1,17 @@
+{
+  "name": "db_graphql",
+  "version": "1.0.0",
+  "description": "npm install express express-graphql graphql --save",
+  "main": "index.js",
+  "dependencies": {
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.3.0",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
